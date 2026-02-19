@@ -12,10 +12,15 @@ Projeto desenvolvido para apresentar serviços de design e remodelação de inte
 ## 📂 Estrutura do projeto
 
 /css
+
 /js
+
 /includes
+
 /pages
+
 /images
+
 index.php
 
 ## ✨ Funcionalidades
